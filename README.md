@@ -2,7 +2,7 @@
 ## My Name is Sarah Mendez & I'm a Front-End Engineer 💫
 
 - 📍 I'm currently located in ... Salt Lake City, UT
-- 🔭 I’m currently working on ... Building a Joke Teller With Vanilla JavaScript ES6 // Building out a Portfolio Page from the ground up
+- 🔭 I’m currently working on ... Building a Joke Teller With Vanilla JavaScript ES6 // Building out a Portfolio from the ground up
 - 🌱 I’m currently learning ... BootStrap
 - 📚 I’m currently Reading ... Eloquent JavaScript 3rd Edition | Marijn Haverbeke
 - 📈 My current goal ... Push to Github 5 times a week and work on projects outside of academia.
