@@ -8,7 +8,7 @@
 - 📈 My current goal ... Push to Github 5 times a week and work on projects outside of academia.
 - 📫 How to reach me 👇 ...
 
-<img src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg" url="https://www.linkedin.com/in/srhmendez/"> <img height=65px width=65px src="./Portfolio.svg" url="https://sarahmendez.com">
+<a href="https://www.linkedin.com/in/srhmendez/"><img src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg"> </a><a href="https://sarahmendez.com"><img height=65px width=65px src="./Portfolio.svg"></a>
 
 
 
