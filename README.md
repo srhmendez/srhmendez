@@ -4,7 +4,6 @@
 - 🔭 I’m currently working on ... Building a Joke Teller With Vanilla JavaScript ES6 // Building out a Portfolio Page from the ground up
 - 🌱 I’m currently learning ... 
 
-<br>
 - 📫 How to reach me: ...
 <img src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg" url="https://www.linkedin.com/in/srhmendez/"><img height=65px width=65px src="./Portfolio.svg" url="https://sarahmendez.com">
 
