@@ -6,7 +6,7 @@
 - 📚 I’m currently Reading ... Eloquent JavaScript 3rd Edition | Marijn Haverbeke
 - 📫 How to reach me 👇 ...
 
-<img src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg" url="https://www.linkedin.com/in/srhmendez/"> Portfolio 🔜 <img height=65px width=65px src="./Portfolio.svg" url="https://sarahmendez.com">
+<img src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg" url="https://www.linkedin.com/in/srhmendez/"> <img height=65px width=65px src="./Portfolio.svg" url="https://sarahmendez.com">
 
 
 
