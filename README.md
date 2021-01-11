@@ -6,7 +6,7 @@
 - 📫 How to reach me: ...
 
 [<img src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg">](https://www.linkedin.com/in/srhmendez/)
-[<img height=50px width=50 px src="srhmendez/Portfolio.svg">](https://sarahmendez.com)
+[<img src="srhmendez/Portfolio.svg">](https://sarahmendez.com)
 
 
 - 😄 Pronouns: ...
