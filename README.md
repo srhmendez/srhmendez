@@ -6,8 +6,8 @@
 
 <br>
 - 📫 How to reach me: ...
-[<img src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg">](https://www.linkedin.com/in/srhmendez/)
-[<img height=65px width=65px src="./Portfolio.svg">](https://sarahmendez.com)
+[<img src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg">](https://www.linkedin.com/in/srhmendez/)]
+[<img height=65px width=65px src="./Portfolio.svg">](https://sarahmendez.com)]
 
 
 
