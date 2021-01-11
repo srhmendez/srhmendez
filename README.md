@@ -11,3 +11,11 @@
 
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+
+
+
+
+
+<style>div#credit{font-size:5px;}</style>
+<div id="credit">Portfolio Icon made by <a href="https://www.flaticon.com/authors/freepik" title="Freepik">Freepik</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a></div>
