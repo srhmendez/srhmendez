@@ -5,15 +5,10 @@
 - 🌱 I’m currently learning ... 
 
 <br>
-<br>
 - 📫 How to reach me: ...
-
+<br>
 [<img src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg">](https://www.linkedin.com/in/srhmendez/)
 [<img height=65px width=65px src="./Portfolio.svg">](https://sarahmendez.com)
-
-
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 
 
 
