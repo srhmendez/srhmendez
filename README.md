@@ -16,7 +16,7 @@
 
 
 <br>
-<sub><sup><div><p>Portfolio Icon made by <a href="https://www.flaticon.com/authors/freepik" title="Freepik">Freepik</a> from <a href="https://www.flaticon.com/" title="Flaticon"/>www.flaticon.com</p></a></div></sup></sub>
+<sub><sup><div>Portfolio Icon made by <a href="https://www.flaticon.com/authors/freepik" title="Freepik">Freepik</a> from <a href="https://www.flaticon.com/" title="Flaticon"/>www.flaticon.com</a></div></sup></sub>
 <br>
 <sub><sup><div>Email Icon made by <a href="https://www.flaticon.com/authors/pixel-perfect" title="Pixel perfect">Pixel perfect</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a></div></sup></sub>
 <br>
