@@ -17,5 +17,5 @@
 
 
 <sub><sup><div id="credit"><p>Portfolio Icon made by <a href="https://www.flaticon.com/authors/freepik" title="Freepik">Freepik</a> from <a href="https://www.flaticon.com/" title="Flaticon"/>www.flaticon.com</p></a></div></sup></sub>
-<sub><sup<div>Email Icon made by <a href="https://www.flaticon.com/authors/pixel-perfect" title="Pixel perfect">Pixel perfect</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a></div></sup></sub>
+<sub><sup<div id="credit2">Email Icon made by <a href="https://www.flaticon.com/authors/pixel-perfect" title="Pixel perfect">Pixel perfect</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a></div></sup></sub>
 <sub><sup><div id="credit"><p>Account 8 bit character made by <a href="http://www.avatarsinpixels.com/minipix/clothing/Body" title="Avatars In Pixels">Avatars In Pixels</a>
