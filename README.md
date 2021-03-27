@@ -1,4 +1,3 @@
-<style>.emailIcon{margin-left:10px;}</style>
 ### Hello Stranger 👋
 ## My Name is Sarah Mendez & I'm a Front-End Engineer 💫
 
@@ -8,7 +7,7 @@
 - 📚 I’m currently Reading ... Eloquent JavaScript 3rd Edition | Marijn Haverbeke & Teach Yourself Node.js | George Ornbo
 - 📈 My current goal ... Push to Github 5 times a week and work on projects outside of academia.
 - 📫 How to reach me 👇 ...
-
+<style></style>
 <a href="https://www.linkedin.com/in/srhmendez/" target="_blank"><img src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg"> </a><a href="https://www.sarahmendez.com" target="_blank" ><img height=65px width=65px src="./Portfolio.svg"></a></a><a href="mailto:srhmendez@gmail.com" target="_blank" ><img class="emailIcon" height=65px width=65px src="./email.png"></a>
 
 
