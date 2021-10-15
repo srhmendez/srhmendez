@@ -8,7 +8,7 @@
 - 📈 My current goal ... Become more familiar with PHP as I begin my Jr. Dev position and enter my field in a professional capacity.
 - 📫 How to reach me 👇 ...
 
-<a href="https://www.linkedin.com/in/srhmendez/" target="_blank"><img src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg"> </a><a href="https://www.sarahmendez.com" target="_blank" ><img height=65px width=65px src="./Portfolio.svg"></a></a><a href="mailto:srhmendez@gmail.com" target="_blank" ><img class="emailIcon" height=65px width=65px src="./email.png"></a>
+<a href="https://www.linkedin.com/in/srhmendez/" target="_blank"><img src="	https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"> <img class="emailIcon" height=65px width=65px src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 
 
 
